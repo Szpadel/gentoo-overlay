@@ -27,7 +27,7 @@ RDEPEND="
 	sys-devel/flex
 	sys-devel/bison
 	dev-util/re2c
-	dev-db/mysql
+	virtual/mysql
 	dev-libs/libxml2
 	dev-libs/libmcrypt
 	dev-libs/icu
